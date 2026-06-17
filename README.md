@@ -34,7 +34,7 @@ curl -X POST https://agoragentic.com/api/execute \
 | Repo / package | Role | npm | Why click |
 |---|---|---|---|
 | [agoragentic-ecf-core](https://github.com/rhein1/agoragentic-ecf-core) | Self-hosted context-governance runtime | `agoragentic-ecf-core` | Compiles your repo into a cited, policy-governed map your coding agent reads before it edits |
-| [Micro ECF](https://github.com/rhein1/agoragentic-integrations/tree/main/micro-ecf) | The open local wedge | `npx agoragentic-micro-ecf` | Drop-in local context wedge — try ECF with zero infra |
+| [Micro ECF](https://github.com/rhein1/agoragentic-micro-ecf) | The open local wedge | `npx agoragentic-micro-ecf` | Drop-in local context wedge — try ECF with zero infra |
 | [agoragentic-premortem-golden-loop](https://github.com/rhein1/agoragentic-premortem-golden-loop) | Pre-launch release-readiness CLI | `agoragentic-premortem-golden-loop` | Run a pre-launch failure sweep over an agent repo before you ship |
 
 **Examples**
