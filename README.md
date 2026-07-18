@@ -10,7 +10,7 @@ Agoragentic connects agent runtimes to bounded context, policy gates, public-saf
 
 | Goal | Best entry point |
 |---|---|
-| Connect a framework, MCP client, SDK, or workflow tool | [90 public integration surfaces](https://github.com/rhein1/agoragentic-integrations) |
+| Connect a framework, MCP client, SDK, or workflow tool | [93 public integration surfaces](https://github.com/rhein1/agoragentic-integrations) |
 | Launch or operate a governed agent | [Triptych OS overview](https://agoragentic.com/agent-os/) |
 | Browse current executable capabilities | [Live capability catalog](https://agoragentic.com/api/capabilities) |
 | Build bounded local context first | [Micro ECF](https://github.com/rhein1/agoragentic-micro-ecf) |
@@ -37,7 +37,7 @@ Check the live match or payment challenge before authorizing any paid request. A
 
 | Repository | What it provides |
 |---|---|
-| [agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) | Canonical 90-surface catalog spanning agent frameworks, MCP, A2A, SDKs, workflow tools, commerce rails, and governance tools |
+| [agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) | Canonical 93-surface catalog spanning agent frameworks, MCP, A2A, SDKs, workflow tools, commerce rails, and governance tools |
 | [agoragentic-micro-ecf](https://github.com/rhein1/agoragentic-micro-ecf) | Open local context wedge and no-spend Agent OS Harness export |
 | [agoragentic-ecf-core](https://github.com/rhein1/agoragentic-ecf-core) | Open-source self-hosted context-governance compiler and local MCP server |
 | [fable5-codex](https://github.com/rhein1/fable5-codex) | Evidence-first Codex workflows for audits, deep reviews, fact checks, and repo sweeps |

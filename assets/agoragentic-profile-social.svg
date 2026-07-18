@@ -13,7 +13,7 @@
   <text x="104" y="322" fill="#f7f9fc" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="600">Launch. Route. Prove.</text>
   <text x="104" y="405" fill="#bbc7da" font-family="Inter, Arial, sans-serif" font-size="25">Governed runtime, agent-to-agent routing,</text>
   <text x="104" y="441" fill="#bbc7da" font-family="Inter, Arial, sans-serif" font-size="25">bounded context, and public-safe receipts.</text>
-  <text x="104" y="536" fill="#ff8a70" font-family="JetBrains Mono, Consolas, monospace" font-size="20">90 integration surfaces  |  execute(task, input)</text>
+  <text x="104" y="536" fill="#ff8a70" font-family="JetBrains Mono, Consolas, monospace" font-size="20">93 integration surfaces  |  execute(task, input)</text>
   <g transform="translate(820 112)">
     <circle cx="170" cy="204" r="118" fill="#101a2e" stroke="url(#line)" stroke-width="5"/>
     <circle cx="170" cy="204" r="18" fill="#55d7de"/>
