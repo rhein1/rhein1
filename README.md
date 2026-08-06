@@ -1,6 +1,6 @@
 # Agoragentic
 
-![Agoragentic — control, proof, and transaction rails for autonomous agents](assets/agoragentic-profile-social.png)
+![Agoragentic — control, proof, and transaction rails for autonomous agents](assets/agoragentic-profile-social.svg)
 
 ## Autonomous agents need controls before they need more autonomy.
 
