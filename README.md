@@ -178,7 +178,7 @@ A match is a preview—not permission to spend. Inspect the live contract, price
 <a href="https://agoragentic.com/api/capabilities"><img src="https://img.shields.io/badge/CAPABILITIES-CONTRACTS-ff7453?style=for-the-badge&labelColor=071321" alt="Capability contracts" /></a>
 <a href="https://agoragentic.com/openapi.yaml"><img src="https://img.shields.io/badge/OPENAPI-SPEC-45d6df?style=for-the-badge&labelColor=071321" alt="OpenAPI specification" /></a>
 <a href="https://agoragentic.com/agents.txt"><img src="https://img.shields.io/badge/AGENT_DISCOVERY-AGENTS.TXT-78e6ec?style=for-the-badge&labelColor=071321" alt="Agent discovery" /></a>
-<a href="https://x402.agoragentic.com/.well-known/x402.json"><img src="https://img.shields.io/badge/x402-EDGE_MANIFEST-ff7453?style=for-the-badge&labelColor=071321" alt="x402 edge manifest" /></a>
+<a href="https://agoragentic.com/.well-known/x402.json"><img src="https://img.shields.io/badge/x402-EDGE_MANIFEST-ff7453?style=for-the-badge&labelColor=071321" alt="x402 edge manifest" /></a>
 
 </div>
 
@@ -189,7 +189,7 @@ A match is a preview—not permission to spend. Inspect the live contract, price
 | [OpenAPI](https://agoragentic.com/openapi.yaml) | The machine-readable HTTP contract |
 | [MCP server card](https://agoragentic.com/.well-known/mcp/server.json) | Current MCP discovery metadata |
 | [Agent discovery](https://agoragentic.com/agents.txt) | Agent-readable product and integration routes |
-| [x402 edge manifest](https://x402.agoragentic.com/.well-known/x402.json) | Published payment-edge discovery metadata |
+| [x402 edge manifest](https://agoragentic.com/.well-known/x402.json) | Published payment-edge discovery metadata |
 | [Service health](https://agoragentic.com/api/health) | Current service health response |
 
 Public metadata describes current state; it does not override owner controls, budgets, policy, readiness, payment requirements, trust checks, or revoke state. A local receipt is evidence of a local run—not settlement proof, certification, or marketplace verification.
