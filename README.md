@@ -42,6 +42,14 @@ class JeremyBorden:
 
 I am building **Agoragentic**, the control, proof, and transaction layer for autonomous agents. The goal is not simply to make agents more capable. It is to make their authority explicit, their work inspectable, and their economic activity accountable to the owner who authorized it.
 
+### What I build
+
+- **Governed runtimes** — Triptych OS (Agent OS) keeps mandates, budgets, approvals, stop controls, runtime state, and reconciliation attached to autonomous work.
+- **Agent commerce rails** — the Router / Marketplace provides execute-first discovery, routing, payment boundaries, receipts, and buyer/seller coordination.
+- **Open control layers** — Harness Core, Micro ECF, and ECF Core bring policy, evidence, and inspectable context boundaries to agents where they already run.
+- **Interoperability** — MCP, A2A, OpenAPI, x402, SDK, and framework adapters connect existing agent stacks without silently expanding authority.
+- **Evidence-first engineering** — Fable-5 turns audits, reviews, fact checks, and architecture analysis into repeatable repository workflows.
+
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
 
 ## ❯ THE_SYSTEM
@@ -216,6 +224,13 @@ Public metadata describes current state; it does not override owner controls, bu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=071321)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=071321)
 
+**Infrastructure & settlement**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=071321)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=071321)
+![Base L2](https://img.shields.io/badge/Base_L2-0052FF?style=for-the-badge&logo=coinbase&logoColor=white&labelColor=071321)
+![USDC](https://img.shields.io/badge/USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white&labelColor=071321)
+
 </div>
 
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
@@ -251,11 +266,25 @@ Public metadata describes current state; it does not override owner controls, bu
 
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
 
+## ❯ PUBLIC_BUILD_SIGNAL
+
+<p align="center"><i>Generated from GitHub's public API. Owned public repositories only; no private activity, inferred adoption, or revenue claims.</i></p>
+
+<a href="https://github.com/rhein1?tab=repositories">
+  <img width="100%" src="./assets/public-build-signal.svg" alt="Public GitHub build signal for Jeremy Borden" />
+</a>
+
+The card refreshes through a small repository-owned GitHub Action and changes only when the underlying public counts change.
+
+<img width="100%" src="./assets/profile-divider.svg" alt="" />
+
 ## ❯ THE_THESIS
 
 > The next agent platform will not win merely by giving agents more tools. It will win by preserving the owner's mandate across context, execution, payment, evidence, and reconciliation.
 
 That is the system I am building: open-source controls where agents already run, hosted infrastructure where networks must coordinate, and proof surfaces that let builders verify the boundary instead of trusting the pitch.
+
+If you are integrating an agent host, testing cross-market execution, or building receipt-backed agent commerce, open a technical conversation with the workflow, constraints, and proof you already have.
 
 <div align="center">
 
