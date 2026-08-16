@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="title desc">
   <title id="title">Jeremy Borden and Agoragentic</title>
-  <desc id="desc">Governed infrastructure for autonomous agent commerce: control, proof, and transaction rails.</desc>
+  <desc id="desc">Governed agent infrastructure with an owner mandate connected to govern, execute, prove, and transact controls.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#06101e"/>
-      <stop offset="0.52" stop-color="#0b1729"/>
+      <stop offset="0.55" stop-color="#0a1627"/>
       <stop offset="1" stop-color="#111f35"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
@@ -12,70 +12,91 @@
       <stop offset="0.52" stop-color="#78e6ec"/>
       <stop offset="1" stop-color="#ff7453"/>
     </linearGradient>
-    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#45d6df"/>
-      <stop offset="1" stop-color="#ff7453"/>
+    <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#68e3ea"/>
+      <stop offset="0.58" stop-color="#a5e7df"/>
+      <stop offset="1" stop-color="#ff8062"/>
     </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1d31" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#101b2e" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.35" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#25485b"/>
+      <stop offset="0.55" stop-color="#142b3c"/>
+      <stop offset="1" stop-color="#101b2c"/>
+    </radialGradient>
     <radialGradient id="halo">
-      <stop offset="0" stop-color="#45d6df" stop-opacity="0.18"/>
+      <stop offset="0" stop-color="#45d6df" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#45d6df" stop-opacity="0"/>
     </radialGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#6f86a8" stroke-opacity="0.07" stroke-width="1"/>
+      <path d="M48 0H0V48" fill="none" stroke="#6f86a8" stroke-opacity="0.065" stroke-width="1"/>
     </pattern>
   </defs>
 
   <rect width="1200" height="300" rx="24" fill="url(#background)"/>
   <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-  <circle cx="1005" cy="145" r="230" fill="url(#halo)"/>
-  <circle cx="1180" cy="292" r="185" fill="#ff7453" opacity="0.055"/>
+  <path d="M720 0H1200V300H930Z" fill="#17263c" opacity="0.28"/>
+  <circle cx="995" cy="142" r="245" fill="url(#halo)"/>
+  <circle cx="1190" cy="302" r="178" fill="#ff7453" opacity="0.045"/>
 
-  <path d="M42 42h82M42 42v44M1158 42h-82M1158 42v44M42 258h82M42 258v-44M1158 258h-82M1158 258v-44"
-        fill="none" stroke="#45d6df" stroke-opacity="0.72" stroke-width="2.5"/>
+  <path d="M42 44h78M42 44v42M42 256h78M42 256v-42" fill="none" stroke="#45d6df" stroke-opacity="0.76" stroke-width="2.5"/>
+  <rect x="66" y="42" width="249" height="30" rx="15" fill="#0e2035" stroke="#45d6df" stroke-opacity="0.5"/>
+  <circle cx="86" cy="57" r="5" fill="#62e2e8" filter="url(#glow)"/>
+  <text x="102" y="63" font-family="JetBrains Mono, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.45" fill="#c2d2e5">FOUNDER · SYSTEMS BUILDER</text>
 
-  <rect x="66" y="52" width="248" height="32" rx="16" fill="#0f2137" stroke="#45d6df" stroke-opacity="0.45"/>
-  <circle cx="86" cy="68" r="5" fill="#45d6df" filter="url(#glow)"/>
-  <text x="102" y="74" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#b9c8dc">FOUNDER · SYSTEMS BUILDER</text>
+  <text x="66" y="116" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="750" letter-spacing="3" fill="#60dfe7">JEREMY BORDEN / AGORAGENTIC</text>
+  <text x="66" y="174" font-family="Inter, Arial, sans-serif" font-size="49" font-weight="850" letter-spacing="0.35" fill="#f7fbff">GOVERNED AGENT</text>
+  <text x="66" y="226" font-family="Inter, Arial, sans-serif" font-size="49" font-weight="850" letter-spacing="0.35" fill="url(#headline)">INFRASTRUCTURE</text>
+  <path d="M68 250H102" stroke="#45d6df" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="116" y="255" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.8" fill="#9bb0ca">CONTROL · PROOF · ACCOUNTABLE COMMERCE</text>
 
-  <text x="66" y="134" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3.2" fill="#45d6df">JEREMY BORDEN / AGORAGENTIC</text>
-  <text x="66" y="190" font-family="Inter, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="0.5" fill="#f7fbff">GOVERNED AGENT</text>
-  <text x="66" y="240" font-family="Inter, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="0.5" fill="url(#accent)">INFRASTRUCTURE</text>
-  <text x="68" y="272" font-family="JetBrains Mono, Consolas, monospace" font-size="14" letter-spacing="2.2" fill="#91a5c1">CONTROL · PROOF · TRANSACTION RAILS</text>
+  <g transform="translate(760 28)">
+    <rect width="398" height="240" rx="22" fill="url(#panel)" stroke="#44617e" stroke-opacity="0.62"/>
+    <path d="M24 54H374" stroke="#2b455f" stroke-width="1"/>
+    <text x="24" y="35" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="800" letter-spacing="2" fill="#d7e7f5">OWNER CONTROL LOOP</text>
+    <text x="374" y="35" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="1.15" fill="#7790ad">AUTHORITY ATTACHED</text>
 
-  <g transform="translate(825 45)">
-    <path d="M74 61L184 31L276 91L248 205L126 224L38 150Z" fill="none" stroke="#314866" stroke-width="2"/>
-    <path d="M74 61L126 224M184 31L248 205M276 91L38 150M74 61L248 205M184 31L38 150M276 91L126 224" fill="none" stroke="#45d6df" stroke-opacity="0.26" stroke-width="1.5"/>
-    <path d="M74 61L184 31L276 91L248 205L126 224L38 150Z" fill="none" stroke="url(#accent)" stroke-opacity="0.62" stroke-width="2.4"/>
+    <path d="M138 94L166 120M260 94L232 120M260 190L232 164M138 190L166 164" fill="none" stroke="url(#accent)" stroke-opacity="0.72" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="150" cy="105" r="3.5" fill="#61dfe6" filter="url(#glow)"/>
+    <circle cx="248" cy="105" r="3.5" fill="#78e6ec" filter="url(#glow)"/>
+    <circle cx="248" cy="179" r="3.5" fill="#f2b394" filter="url(#glow)"/>
+    <circle cx="150" cy="179" r="3.5" fill="#ff8062" filter="url(#glow)"/>
 
-    <g filter="url(#glow)">
-      <circle cx="74" cy="61" r="9" fill="#45d6df"/>
-      <circle cx="184" cy="31" r="9" fill="#63e0e7"/>
-      <circle cx="276" cy="91" r="9" fill="#97d5cf"/>
-      <circle cx="248" cy="205" r="9" fill="#ff7453"/>
-      <circle cx="126" cy="224" r="9" fill="#f99172"/>
-      <circle cx="38" cy="150" r="9" fill="#5adce4"/>
-      <circle cx="157" cy="129" r="16" fill="url(#node)"/>
+    <g transform="translate(24 70)">
+      <rect width="126" height="48" rx="12" fill="#10253a" stroke="#45d6df" stroke-opacity="0.65"/>
+      <text x="14" y="21" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="800" letter-spacing="1.15" fill="#72e4ea">01 · GOVERN</text>
+      <text x="14" y="37" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#94aac2">policy · budget</text>
+    </g>
+    <g transform="translate(248 70)">
+      <rect width="126" height="48" rx="12" fill="#10253a" stroke="#78e6ec" stroke-opacity="0.62"/>
+      <text x="14" y="21" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="800" letter-spacing="1.05" fill="#90ebef">02 · EXECUTE</text>
+      <text x="14" y="37" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#94aac2">bounded runtime</text>
+    </g>
+    <g transform="translate(248 166)">
+      <rect width="126" height="48" rx="12" fill="#102238" stroke="#e8aa8c" stroke-opacity="0.68"/>
+      <text x="14" y="21" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="800" letter-spacing="1.15" fill="#f1b598">03 · PROVE</text>
+      <text x="14" y="37" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#94aac2">evidence · receipt</text>
+    </g>
+    <g transform="translate(24 166)">
+      <rect width="126" height="48" rx="12" fill="#122137" stroke="#ff7453" stroke-opacity="0.72"/>
+      <text x="14" y="21" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="800" letter-spacing="0.8" fill="#ff9479">04 · TRANSACT</text>
+      <text x="14" y="37" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#94aac2">route · reconcile</text>
     </g>
 
-    <circle cx="157" cy="129" r="44" fill="none" stroke="#d7f6f8" stroke-opacity="0.22" stroke-width="1.5"/>
-    <circle cx="157" cy="129" r="64" fill="none" stroke="#ff9c83" stroke-opacity="0.15" stroke-width="1.5" stroke-dasharray="5 7"/>
-
-    <text x="157" y="126" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.6" fill="#071321">OWNER</text>
-    <text x="157" y="141" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1.2" fill="#071321">MANDATE</text>
-
-    <text x="74" y="45" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#91a5c1">POLICY</text>
-    <text x="184" y="14" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#91a5c1">CONTEXT</text>
-    <text x="302" y="94" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#91a5c1">EXECUTE</text>
-    <text x="267" y="225" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#91a5c1">RECEIPT</text>
-    <text x="126" y="247" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#91a5c1">RECONCILE</text>
-    <text x="0" y="154" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#91a5c1">ROUTE</text>
+    <circle cx="199" cy="142" r="53" fill="none" stroke="#6fa9b5" stroke-opacity="0.15" stroke-dasharray="4 7"/>
+    <circle cx="199" cy="142" r="42" fill="url(#core)" stroke="url(#accent)" stroke-width="2.2"/>
+    <circle cx="199" cy="142" r="33" fill="none" stroke="#d5f4f5" stroke-opacity="0.13"/>
+    <text x="199" y="138" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="900" letter-spacing="1.45" fill="#f4fbff">OWNER</text>
+    <text x="199" y="154" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="750" letter-spacing="1.2" fill="#90e7e8">MANDATE</text>
   </g>
 
   <rect x="0" y="296" width="1200" height="4" fill="url(#accent)"/>
