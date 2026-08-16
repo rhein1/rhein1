@@ -21,16 +21,16 @@
 
 <strong>Live entry points</strong><br />
 <sub>Explore the platform, inspect proof, or discover the MCP surface.</sub><br /><br />
-<a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/WEBSITE-AGORAGENTIC.COM-45d6df?style=for-the-badge&labelColor=071321" alt="Agoragentic website" /></a>
-<a href="https://agoragentic.com/public-proof.json"><img src="https://img.shields.io/badge/PUBLIC_PROOF-VERIFY-ff7453?style=for-the-badge&labelColor=071321" alt="Agoragentic public proof" /></a>
-<a href="https://agoragentic.com/.well-known/mcp/server.json"><img src="https://img.shields.io/badge/MCP-DISCOVER-78e6ec?style=for-the-badge&labelColor=071321" alt="Agoragentic MCP server card" /></a>
+<a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/OPEN-AGORAGENTIC.COM_%E2%86%97-45d6df?style=for-the-badge&labelColor=071321" alt="Agoragentic website" /></a>
+<a href="https://agoragentic.com/public-proof.json"><img src="https://img.shields.io/badge/VIEW-PUBLIC_PROOF_%E2%86%97-ff7453?style=for-the-badge&labelColor=071321" alt="Agoragentic public proof" /></a>
+<a href="https://agoragentic.com/.well-known/mcp/server.json"><img src="https://img.shields.io/badge/DISCOVER-MCP_%E2%86%97-78e6ec?style=for-the-badge&labelColor=071321" alt="Agoragentic MCP server card" /></a>
 
 </td>
 <td width="40%" align="center" valign="middle">
 
 <strong>Public profile signals</strong><br />
 <sub>Current public follower and profile-view counters.</sub><br /><br />
-<a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/github/followers/rhein1?style=for-the-badge&logo=github&logoColor=white&color=ff8e72&labelColor=071321" alt="GitHub followers" /></a>
+<a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-%40RHEIN1_%E2%86%97-ff8e72?style=for-the-badge&logo=github&logoColor=white&labelColor=071321" alt="Follow Jeremy Borden on GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=rhein1&style=for-the-badge&color=45d6df&labelColor=071321&label=PROFILE+VIEWS" alt="Profile views" />
 
 </td>
@@ -197,12 +197,12 @@ A match is a preview—not permission to spend. Inspect the live contract, price
 
 <div align="center">
 
-<a href="https://agoragentic.com/public-proof.json"><img src="https://img.shields.io/badge/PUBLIC_PROOF-JSON-45d6df?style=for-the-badge&labelColor=071321" alt="Public proof JSON" /></a>
-<a href="https://agoragentic.com/api/health"><img src="https://img.shields.io/badge/SERVICE_HEALTH-LIVE-78e6ec?style=for-the-badge&labelColor=071321" alt="Service health" /></a>
-<a href="https://agoragentic.com/api/capabilities"><img src="https://img.shields.io/badge/CAPABILITIES-CONTRACTS-ff7453?style=for-the-badge&labelColor=071321" alt="Capability contracts" /></a>
-<a href="https://agoragentic.com/openapi.yaml"><img src="https://img.shields.io/badge/OPENAPI-SPEC-45d6df?style=for-the-badge&labelColor=071321" alt="OpenAPI specification" /></a>
-<a href="https://agoragentic.com/agents.txt"><img src="https://img.shields.io/badge/AGENT_DISCOVERY-AGENTS.TXT-78e6ec?style=for-the-badge&labelColor=071321" alt="Agent discovery" /></a>
-<a href="https://agoragentic.com/.well-known/x402.json"><img src="https://img.shields.io/badge/x402-EDGE_MANIFEST-ff7453?style=for-the-badge&labelColor=071321" alt="x402 edge manifest" /></a>
+<a href="https://agoragentic.com/public-proof.json"><img src="https://img.shields.io/badge/VIEW-PUBLIC_PROOF_%E2%86%97-45d6df?style=for-the-badge&labelColor=071321" alt="Public proof JSON" /></a>
+<a href="https://agoragentic.com/api/health"><img src="https://img.shields.io/badge/CHECK-SERVICE_HEALTH_%E2%86%97-78e6ec?style=for-the-badge&labelColor=071321" alt="Service health" /></a>
+<a href="https://agoragentic.com/api/capabilities"><img src="https://img.shields.io/badge/BROWSE-CAPABILITIES_%E2%86%97-ff7453?style=for-the-badge&labelColor=071321" alt="Capability contracts" /></a>
+<a href="https://agoragentic.com/openapi.yaml"><img src="https://img.shields.io/badge/OPEN-OPENAPI_SPEC_%E2%86%97-45d6df?style=for-the-badge&labelColor=071321" alt="OpenAPI specification" /></a>
+<a href="https://agoragentic.com/agents.txt"><img src="https://img.shields.io/badge/READ-AGENTS.TXT_%E2%86%97-78e6ec?style=for-the-badge&labelColor=071321" alt="Agent discovery" /></a>
+<a href="https://agoragentic.com/.well-known/x402.json"><img src="https://img.shields.io/badge/VIEW-x402_MANIFEST_%E2%86%97-ff7453?style=for-the-badge&labelColor=071321" alt="x402 edge manifest" /></a>
 
 </div>
 
@@ -222,32 +222,44 @@ Public metadata describes current state; it does not override owner controls, bu
 
 ## ❯ PROTOCOLS_AND_STACK
 
-<div align="center">
+<p align="center"><i>Reference map, not an action menu. Clickable routes elsewhere use an action verb and ↗ marker.</i></p>
 
-**Agent protocols & commerce**
+### Agent protocols & commerce
 
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-45d6df?style=for-the-badge&labelColor=071321)
-![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent-78e6ec?style=for-the-badge&labelColor=071321)
-![x402](https://img.shields.io/badge/x402-Agent_Payments-ff7453?style=for-the-badge&labelColor=071321)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-Machine_Readable-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white&labelColor=071321)
+<table>
+<tr>
+<td width="25%" align="center"><strong>MCP</strong><br /><sub>Tool and context interoperability</sub></td>
+<td width="25%" align="center"><strong>A2A</strong><br /><sub>Agent-to-agent communication</sub></td>
+<td width="25%" align="center"><strong>x402</strong><br /><sub>HTTP-native payment boundary</sub></td>
+<td width="25%" align="center"><strong>OpenAPI</strong><br /><sub>Machine-readable HTTP contracts</sub></td>
+</tr>
+</table>
 
-**Languages & runtime**
+### Languages & runtime
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=071321)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=071321)
-![Rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white&labelColor=071321)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=071321)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=071321)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=071321)
+<table>
+<tr>
+<td width="33%" align="center"><strong>TypeScript</strong><br /><sub>SDK and web surfaces</sub></td>
+<td width="33%" align="center"><strong>Python</strong><br /><sub>Adapters and examples</sub></td>
+<td width="33%" align="center"><strong>Rust</strong><br /><sub>Systems implementation</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center"><strong>Node.js</strong><br /><sub>Primary server runtime</sub></td>
+<td width="33%" align="center"><strong>Docker</strong><br /><sub>Repeatable runtime packaging</sub></td>
+<td width="33%" align="center"><strong>GitHub Actions</strong><br /><sub>Validation and release automation</sub></td>
+</tr>
+</table>
 
-**Infrastructure & settlement**
+### Infrastructure & settlement
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=071321)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=071321)
-![Base L2](https://img.shields.io/badge/Base_L2-0052FF?style=for-the-badge&logo=coinbase&logoColor=white&labelColor=071321)
-![USDC](https://img.shields.io/badge/USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white&labelColor=071321)
-
-</div>
+<table>
+<tr>
+<td width="25%" align="center"><strong>PostgreSQL</strong><br /><sub>Durable state and receipts</sub></td>
+<td width="25%" align="center"><strong>AWS</strong><br /><sub>Managed infrastructure</sub></td>
+<td width="25%" align="center"><strong>Base L2</strong><br /><sub>Settlement network</sub></td>
+<td width="25%" align="center"><strong>USDC</strong><br /><sub>Settlement asset</sub></td>
+</tr>
+</table>
 
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
 
@@ -304,14 +316,14 @@ The cards refresh through a small repository-owned GitHub Action and change only
 
 <strong>Explore the public build graph</strong><br />
 <sub>Inspect source, releases, and the repositories behind the signal.</sub><br /><br />
-<a href="https://github.com/rhein1?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL_PUBLIC_BUILDS-45d6df?style=for-the-badge&labelColor=071321" alt="Browse all public repositories" /></a>
+<a href="https://github.com/rhein1?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL_PUBLIC_BUILDS_%E2%86%97-45d6df?style=for-the-badge&labelColor=071321" alt="Browse all public repositories" /></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 <strong>Follow the shipping trail</strong><br />
 <sub>Track new public repositories, releases, and evidence-backed work.</sub><br /><br />
-<a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-PUBLIC_WORK-ff7453?style=for-the-badge&logo=github&logoColor=white&labelColor=071321" alt="Follow Jeremy Borden on GitHub" /></a>
+<a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-PUBLIC_WORK_%E2%86%97-ff7453?style=for-the-badge&logo=github&logoColor=white&labelColor=071321" alt="Follow Jeremy Borden on GitHub" /></a>
 
 </td>
 </tr>
@@ -333,21 +345,21 @@ If you are integrating an agent host, testing cross-market execution, or buildin
 
 <strong>Explore the system</strong><br />
 <sub>See the runtime, marketplace, and live machine-readable surfaces.</sub><br /><br />
-<a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/EXPLORE-AGORAGENTIC-45d6df?style=for-the-badge&labelColor=071321" alt="Explore Agoragentic" /></a>
+<a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/EXPLORE-AGORAGENTIC_%E2%86%97-45d6df?style=for-the-badge&labelColor=071321" alt="Explore Agoragentic" /></a>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <strong>Connect an agent stack</strong><br />
 <sub>Start with the public adapters, examples, and integration contracts.</sub><br /><br />
-<a href="https://github.com/rhein1/agoragentic-integrations"><img src="https://img.shields.io/badge/CONNECT-YOUR_STACK-78e6ec?style=for-the-badge&labelColor=071321" alt="Connect your stack" /></a>
+<a href="https://github.com/rhein1/agoragentic-integrations"><img src="https://img.shields.io/badge/CONNECT-YOUR_STACK_%E2%86%97-78e6ec?style=for-the-badge&labelColor=071321" alt="Connect your stack" /></a>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <strong>Bring a real workflow</strong><br />
 <sub>Share the constraints, authority boundary, and proof you already have.</sub><br /><br />
-<a href="https://github.com/rhein1/rhein1/issues/new"><img src="https://img.shields.io/badge/START-A_CONVERSATION-ff7453?style=for-the-badge&labelColor=071321" alt="Start a technical conversation" /></a>
+<a href="https://github.com/rhein1/rhein1/issues/new"><img src="https://img.shields.io/badge/START-A_CONVERSATION_%E2%86%97-ff7453?style=for-the-badge&labelColor=071321" alt="Start a technical conversation" /></a>
 
 </td>
 </tr>
