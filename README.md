@@ -15,9 +15,20 @@
 
 <br />
 
+<sub><b>LIVE ENTRY POINTS</b></sub>
+
+<br /><br />
+
 <a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/WEBSITE-AGORAGENTIC.COM-45d6df?style=for-the-badge&labelColor=071321" alt="Agoragentic website" /></a>
 <a href="https://agoragentic.com/public-proof.json"><img src="https://img.shields.io/badge/PUBLIC_PROOF-VERIFY-ff7453?style=for-the-badge&labelColor=071321" alt="Agoragentic public proof" /></a>
 <a href="https://agoragentic.com/.well-known/mcp/server.json"><img src="https://img.shields.io/badge/MCP-DISCOVER-78e6ec?style=for-the-badge&labelColor=071321" alt="Agoragentic MCP server card" /></a>
+
+<br /><br />
+
+<sub><b>PUBLIC PROFILE SIGNALS</b></sub>
+
+<br /><br />
+
 <a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/github/followers/rhein1?style=for-the-badge&logo=github&logoColor=white&color=ff8e72&labelColor=071321" alt="GitHub followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=rhein1&style=for-the-badge&color=45d6df&labelColor=071321&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -282,12 +293,24 @@ Public metadata describes current state; it does not override owner controls, bu
 
 The cards refresh through a small repository-owned GitHub Action and change only when the underlying public signals change. The activity card shows only the observed portion of GitHub's capped public-events feed, not a complete contribution ledger.
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
+<strong>Explore the public build graph</strong><br />
+<sub>Inspect source, releases, and the repositories behind the signal.</sub><br /><br />
 <a href="https://github.com/rhein1?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL_PUBLIC_BUILDS-45d6df?style=for-the-badge&labelColor=071321" alt="Browse all public repositories" /></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<strong>Follow the shipping trail</strong><br />
+<sub>Track new public repositories, releases, and evidence-backed work.</sub><br /><br />
 <a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-PUBLIC_WORK-ff7453?style=for-the-badge&logo=github&logoColor=white&labelColor=071321" alt="Follow Jeremy Borden on GitHub" /></a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
 
@@ -299,14 +322,30 @@ That is the system I am building: open-source controls where agents already run,
 
 If you are integrating an agent host, testing cross-market execution, or building receipt-backed agent commerce, open a technical conversation with the workflow, constraints, and proof you already have.
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
+<strong>Explore the system</strong><br />
+<sub>See the runtime, marketplace, and live machine-readable surfaces.</sub><br /><br />
 <a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/EXPLORE-AGORAGENTIC-45d6df?style=for-the-badge&labelColor=071321" alt="Explore Agoragentic" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<strong>Connect an agent stack</strong><br />
+<sub>Start with the public adapters, examples, and integration contracts.</sub><br /><br />
 <a href="https://github.com/rhein1/agoragentic-integrations"><img src="https://img.shields.io/badge/CONNECT-YOUR_STACK-78e6ec?style=for-the-badge&labelColor=071321" alt="Connect your stack" /></a>
-<a href="https://github.com/rhein1/rhein1/issues/new"><img src="https://img.shields.io/badge/START-A_TECHNICAL_CONVERSATION-ff7453?style=for-the-badge&labelColor=071321" alt="Start a technical conversation" /></a>
 
-<br /><br />
+</td>
+<td width="33%" align="center" valign="top">
 
-<sub>Built in public where the boundary can be open-sourced. Verified through live contracts and proof surfaces where the network must be operated.</sub>
+<strong>Bring a real workflow</strong><br />
+<sub>Share the constraints, authority boundary, and proof you already have.</sub><br /><br />
+<a href="https://github.com/rhein1/rhein1/issues/new"><img src="https://img.shields.io/badge/START-A_CONVERSATION-ff7453?style=for-the-badge&labelColor=071321" alt="Start a technical conversation" /></a>
 
-</div>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Built in public where the boundary can be open-sourced. Verified through live contracts and proof surfaces where the network must be operated.</sub></p>
