@@ -266,15 +266,28 @@ Public metadata describes current state; it does not override owner controls, bu
 
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
 
-## ❯ PUBLIC_BUILD_SIGNAL
+## ❯ PUBLIC_BUILD_ACTIVITY
 
-<p align="center"><i>Generated from GitHub's public API. Owned public repositories only; no private activity, inferred adoption, or revenue claims.</i></p>
+<p align="center"><i>Generated from GitHub's public API. Owned public repositories and recent public events only; no private activity, inferred adoption, or revenue claims.</i></p>
 
 <a href="https://github.com/rhein1?tab=repositories">
   <img width="100%" src="./assets/public-build-signal.svg" alt="Public GitHub build signal for Jeremy Borden" />
 </a>
 
-The card refreshes through a small repository-owned GitHub Action and changes only when the underlying public counts change.
+<br /><br />
+
+<a href="https://github.com/rhein1?tab=repositories&amp;sort=stargazers">
+  <img width="100%" src="./assets/public-shipping-pulse.svg" alt="Recent public shipping pulse for Jeremy Borden" />
+</a>
+
+The cards refresh through a small repository-owned GitHub Action and change only when the underlying public signals change. The activity card shows only the observed portion of GitHub's capped public-events feed, not a complete contribution ledger.
+
+<div align="center">
+
+<a href="https://github.com/rhein1?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL_PUBLIC_BUILDS-45d6df?style=for-the-badge&labelColor=071321" alt="Browse all public repositories" /></a>
+<a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-PUBLIC_WORK-ff7453?style=for-the-badge&logo=github&logoColor=white&labelColor=071321" alt="Follow Jeremy Borden on GitHub" /></a>
+
+</div>
 
 <img width="100%" src="./assets/profile-divider.svg" alt="" />
 

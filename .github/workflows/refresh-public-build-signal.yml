@@ -1,10 +1,11 @@
-name: Refresh public build signal
+name: Refresh public profile signals
 
 on:
   pull_request:
     paths:
       - ".github/workflows/refresh-public-build-signal.yml"
       - "assets/public-build-signal.svg"
+      - "assets/public-shipping-pulse.svg"
       - "scripts/generate-public-build-signal.mjs"
       - "README.md"
   schedule:
@@ -15,7 +16,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: public-build-signal
+  group: public-profile-signals
   cancel-in-progress: false
 
 jobs:
@@ -30,7 +31,7 @@ jobs:
       - name: Validate generator
         run: node scripts/generate-public-build-signal.mjs --self-test
       - name: Validate generated SVG
-        run: python -c "import xml.etree.ElementTree as ET; ET.parse('assets/public-build-signal.svg')"
+        run: python -c "import xml.etree.ElementTree as ET; [ET.parse(path) for path in ('assets/public-build-signal.svg', 'assets/public-shipping-pulse.svg')]"
 
   refresh:
     if: github.event_name != 'pull_request' && github.repository == 'rhein1/rhein1' && github.ref == 'refs/heads/main'
@@ -44,7 +45,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Refresh public signal
+      - name: Refresh public signals
         run: node scripts/generate-public-build-signal.mjs
         env:
           GITHUB_LOGIN: rhein1
@@ -52,12 +53,12 @@ jobs:
       - name: Commit changed signal
         shell: bash
         run: |
-          if git diff --quiet -- assets/public-build-signal.svg; then
-            echo "Public signal is unchanged."
+          if git diff --quiet -- assets/public-build-signal.svg assets/public-shipping-pulse.svg; then
+            echo "Public signals are unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- assets/public-build-signal.svg
-          git commit -m "docs(profile): refresh public build signal"
+          git add -- assets/public-build-signal.svg assets/public-shipping-pulse.svg
+          git commit -m "docs(profile): refresh public signals"
           git push
