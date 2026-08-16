@@ -15,22 +15,27 @@
 
 <br />
 
-<sub><b>LIVE ENTRY POINTS</b></sub>
+<table>
+<tr>
+<td width="60%" align="center" valign="middle">
 
-<br /><br />
-
+<strong>Live entry points</strong><br />
+<sub>Explore the platform, inspect proof, or discover the MCP surface.</sub><br /><br />
 <a href="https://agoragentic.com/"><img src="https://img.shields.io/badge/WEBSITE-AGORAGENTIC.COM-45d6df?style=for-the-badge&labelColor=071321" alt="Agoragentic website" /></a>
 <a href="https://agoragentic.com/public-proof.json"><img src="https://img.shields.io/badge/PUBLIC_PROOF-VERIFY-ff7453?style=for-the-badge&labelColor=071321" alt="Agoragentic public proof" /></a>
 <a href="https://agoragentic.com/.well-known/mcp/server.json"><img src="https://img.shields.io/badge/MCP-DISCOVER-78e6ec?style=for-the-badge&labelColor=071321" alt="Agoragentic MCP server card" /></a>
 
-<br /><br />
+</td>
+<td width="40%" align="center" valign="middle">
 
-<sub><b>PUBLIC PROFILE SIGNALS</b></sub>
-
-<br /><br />
-
+<strong>Public profile signals</strong><br />
+<sub>Current public follower and profile-view counters.</sub><br /><br />
 <a href="https://github.com/rhein1?tab=followers"><img src="https://img.shields.io/github/followers/rhein1?style=for-the-badge&logo=github&logoColor=white&color=ff8e72&labelColor=071321" alt="GitHub followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=rhein1&style=for-the-badge&color=45d6df&labelColor=071321&label=PROFILE+VIEWS" alt="Profile views" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
