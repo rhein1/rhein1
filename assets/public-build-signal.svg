@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-labelledby="title desc">
+  <title id="title">Public GitHub build signal for rhein1</title>
+  <desc id="desc">Public repository, original build, star, fork, and recent activity totals generated from the GitHub public API.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071321"/>
+      <stop offset="1" stop-color="#111f35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45d6df"/>
+      <stop offset="0.54" stop-color="#78e6ec"/>
+      <stop offset="1" stop-color="#ff7453"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#6f86a8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="250" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="248" rx="23" fill="none" stroke="#45617c" stroke-opacity="0.45"/>
+  <text x="36" y="36" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="850" letter-spacing="2.4" fill="#e8f4fb">PUBLIC BUILD SIGNAL</text>
+  <text x="36" y="60" font-family="Inter, Arial, sans-serif" font-size="12" fill="#91a5c1">GitHub public API / owned public repositories / no private activity</text>
+  <text x="1164" y="36" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="10" letter-spacing="1.25" fill="#67dce4">REFRESHED BY GITHUB ACTIONS</text>
+  <path d="M36 70H1164" stroke="url(#accent)" stroke-opacity="0.5"/>
+  <g transform="translate(36 82)">
+      <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#68e3ea" stroke-opacity="0.48"/>
+      <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">PUBLIC REPOS</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#68e3ea">37</text>
+    </g><g transform="translate(260 82)">
+      <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#78e6ec" stroke-opacity="0.48"/>
+      <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">ORIGINAL BUILDS</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#78e6ec">9</text>
+    </g><g transform="translate(484 82)">
+      <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#9adfdc" stroke-opacity="0.48"/>
+      <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">STARS ON BUILDS</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#9adfdc">39</text>
+    </g><g transform="translate(708 82)">
+      <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#e6b091" stroke-opacity="0.48"/>
+      <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">FORKS OF BUILDS</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#e6b091">7</text>
+    </g><g transform="translate(932 82)">
+      <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#ff8062" stroke-opacity="0.48"/>
+      <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">ACTIVE IN 90D</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#ff8062">8</text>
+    </g>
+  <text x="36" y="226" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="750" letter-spacing="1.35" fill="#91a5c1">PRIMARY LANGUAGES / JAVASCRIPT / PYTHON</text>
+  <text x="1164" y="226" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#7187a3">Counts are public-source signals, not adoption or revenue claims.</text>
+  <rect x="0" y="246" width="1200" height="4" fill="url(#accent)"/>
+</svg>

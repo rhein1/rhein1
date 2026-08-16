@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="title desc">
+  <title id="title">Agoragentic system map</title>
+  <desc id="desc">An owner mandate flows through governance, execution, proof, and commerce layers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071321"/>
+      <stop offset="1" stop-color="#101e33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45d6df"/>
+      <stop offset="1" stop-color="#ff7453"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
+  <path d="M0 86H1200M0 344H1200M150 0V430M600 0V430M1050 0V430" stroke="#31425d" stroke-opacity="0.28"/>
+  <circle cx="1090" cy="22" r="190" fill="#45d6df" opacity="0.045"/>
+  <circle cx="105" cy="430" r="190" fill="#ff7453" opacity="0.05"/>
+
+  <text x="600" y="48" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2.4" fill="#91a5c1">THE OWNER'S INTENT STAYS ATTACHED TO THE WORK</text>
+
+  <g transform="translate(42 88)">
+    <rect width="196" height="252" rx="24" fill="#0d1c30" stroke="#45d6df" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="98" cy="58" r="31" fill="#45d6df" opacity="0.14"/>
+    <path d="M82 58l11 11 22-27" fill="none" stroke="#79e7ec" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="98" y="113" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#f7fbff">GOVERN</text>
+    <text x="98" y="143" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">mandates · budgets</text>
+    <text x="98" y="164" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">approvals · stop controls</text>
+    <rect x="28" y="196" width="140" height="28" rx="14" fill="#11263d"/>
+    <text x="98" y="215" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" fill="#45d6df">HARNESS · ECF</text>
+  </g>
+
+  <path d="M253 214H302" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M292 204l12 10-12 10" fill="none" stroke="#79e7ec" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(310 88)">
+    <rect width="196" height="252" rx="24" fill="#0d1c30" stroke="#60dcd9" stroke-opacity="0.48" stroke-width="2"/>
+    <circle cx="98" cy="58" r="31" fill="#60dcd9" opacity="0.14"/>
+    <path d="M79 47h38v29H79zM88 40v7M108 40v7M88 57h20M88 65h13" fill="none" stroke="#8de9e5" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="98" y="113" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#f7fbff">EXECUTE</text>
+    <text x="98" y="143" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">tools · runtimes</text>
+    <text x="98" y="164" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">routing · payment boundaries</text>
+    <rect x="28" y="196" width="140" height="28" rx="14" fill="#11263d"/>
+    <text x="98" y="215" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" fill="#60dcd9">TRIPTYCH OS</text>
+  </g>
+
+  <path d="M521 214H570" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M560 204l12 10-12 10" fill="none" stroke="#b6cda9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(578 88)">
+    <rect width="196" height="252" rx="24" fill="#0d1c30" stroke="#d3aa87" stroke-opacity="0.52" stroke-width="2"/>
+    <circle cx="98" cy="58" r="31" fill="#d3aa87" opacity="0.13"/>
+    <path d="M81 40h34v38H81zM88 51h20M88 60h20M88 69h13" fill="none" stroke="#f0c5a4" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="98" y="113" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#f7fbff">PROVE</text>
+    <text x="98" y="143" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">evidence · receipts</text>
+    <text x="98" y="164" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">verification · reconciliation</text>
+    <rect x="28" y="196" width="140" height="28" rx="14" fill="#11263d"/>
+    <text x="98" y="215" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" fill="#f0b697">PUBLIC PROOF</text>
+  </g>
+
+  <path d="M789 214H838" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M828 204l12 10-12 10" fill="none" stroke="#ff987d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(846 88)">
+    <rect width="312" height="252" rx="24" fill="#0d1c30" stroke="#ff7453" stroke-opacity="0.56" stroke-width="2"/>
+    <circle cx="68" cy="58" r="31" fill="#ff7453" opacity="0.13"/>
+    <path d="M48 58h40M68 38v40M51 45l34 26M85 45L51 71" fill="none" stroke="#ff9d84" stroke-width="3.2" stroke-linecap="round"/>
+    <text x="116" y="54" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#f7fbff">TRANSACT</text>
+    <text x="116" y="77" font-family="Inter, Arial, sans-serif" font-size="13" fill="#aab9cd">discover · match · settle</text>
+
+    <g transform="translate(28 110)">
+      <rect width="256" height="42" rx="12" fill="#11263d"/>
+      <text x="18" y="26" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700" fill="#75e4e9">MARKETPLACE</text>
+      <text x="235" y="26" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="10" fill="#8da1bd">BUY / SELL</text>
+    </g>
+    <g transform="translate(28 162)">
+      <rect width="256" height="42" rx="12" fill="#11263d"/>
+      <text x="18" y="26" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700" fill="#ff9d84">INTERCHANGE</text>
+      <text x="235" y="26" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="10" fill="#8da1bd">CROSS-MARKET</text>
+    </g>
+  </g>
+
+  <rect x="250" y="378" width="700" height="34" rx="17" fill="url(#accent)" opacity="0.96"/>
+  <text x="600" y="401" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="900" letter-spacing="1.35" fill="#071321">BOUNDED AUTHORITY → VERIFIABLE OUTCOME → ACCOUNTABLE COMMERCE</text>
+</svg>

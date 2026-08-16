@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="1200" height="450" role="img" aria-labelledby="title desc">
+  <title id="title">Recent public shipping pulse for rhein1</title>
+  <desc id="desc">Recent public push-event cadence and recently pushed original repositories, generated from the capped GitHub public events feed.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071321"/>
+      <stop offset="1" stop-color="#111f35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45d6df"/>
+      <stop offset="0.54" stop-color="#78e6ec"/>
+      <stop offset="1" stop-color="#ff7453"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#6f86a8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="450" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="450" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="448" rx="23" fill="none" stroke="#45617c" stroke-opacity="0.45"/>
+  <text x="36" y="36" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="850" letter-spacing="2.4" fill="#e8f4fb">PUBLIC SHIPPING PULSE</text>
+  <text x="36" y="60" font-family="Inter, Arial, sans-serif" font-size="12" fill="#91a5c1">Latest GitHub public events feed / owned original repositories / private activity excluded</text>
+  <text x="1164" y="36" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="10" letter-spacing="1.25" fill="#67dce4">11-DAY OBSERVED FEED</text>
+  <path d="M36 70H1164" stroke="url(#accent)" stroke-opacity="0.5"/>
+  <g transform="translate(36 88)">
+      <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#68e3ea" stroke-opacity="0.42"/>
+      <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">PUSH EVENTS</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#68e3ea">46</text>
+    </g><g transform="translate(206 88)">
+      <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#78e6ec" stroke-opacity="0.42"/>
+      <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">PR EVENTS</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#78e6ec">123</text>
+    </g><g transform="translate(376 88)">
+      <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#e6b091" stroke-opacity="0.42"/>
+      <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">REPOS PUSHED</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#e6b091">2</text>
+    </g><g transform="translate(546 88)">
+      <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#ff8062" stroke-opacity="0.42"/>
+      <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">ACTIVE DAYS</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#ff8062">11</text>
+    </g>
+  <rect x="36" y="171" width="690" height="230" rx="16" fill="#0b192b" stroke="#45617c" stroke-opacity="0.36"/>
+  <text x="57" y="198" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="800" letter-spacing="1.25" fill="#93a8c0">PUBLIC PUSH CADENCE</text>
+  <path d="M57 359H701" stroke="#49627e" stroke-opacity="0.38"/>
+  <g>
+      <rect x="75.27" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-06: 0 public push events</title>
+    </g><g>
+      <rect x="133.82" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-07: 0 public push events</title>
+    </g><g>
+      <rect x="192.36" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-08: 0 public push events</title>
+    </g><g>
+      <rect x="250.91" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-09: 0 public push events</title>
+    </g><g>
+      <rect x="309.45" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-10: 0 public push events</title>
+    </g><g>
+      <rect x="368.00" y="278" width="22.00" height="81" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <title>2026-08-11: 8 public push events</title>
+    </g><g>
+      <rect x="426.55" y="308" width="22.00" height="51" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <title>2026-08-12: 5 public push events</title>
+    </g><g>
+      <rect x="485.09" y="217" width="22.00" height="142" rx="4" fill="#ff8062" fill-opacity="0.9"/>
+      <title>2026-08-13: 14 public push events</title>
+    </g><g>
+      <rect x="543.64" y="288" width="22.00" height="71" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <title>2026-08-14: 7 public push events</title>
+    </g><g>
+      <rect x="602.18" y="268" width="22.00" height="91" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <title>2026-08-15: 9 public push events</title>
+    </g><g>
+      <rect x="660.73" y="329" width="22.00" height="30" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <title>2026-08-16: 3 public push events</title>
+    </g>
+  <text x="57" y="383" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-08-06</text>
+  <text x="379" y="383" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-08-11</text>
+  <text x="701" y="383" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-08-16</text>
+  <rect x="746" y="88" width="418" height="313" rx="16" fill="#0b192b" stroke="#45617c" stroke-opacity="0.36"/>
+  <text x="778" y="118" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="800" letter-spacing="1.25" fill="#93a8c0">RECENT ORIGINAL BUILDS</text>
+  <g>
+      <circle cx="778" cy="142" r="5" fill="#ff8062"/>
+      <text x="794" y="146" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#e8f4fb">agoragentic-integrations</text>
+      <text x="794" y="167" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-08-16 / JAVASCRIPT / 29 STARS</text>
+      <path d="M778 183H1137" stroke="#49627e" stroke-opacity="0.28"/>
+    </g><g>
+      <circle cx="778" cy="204" r="5" fill="#68e3ea"/>
+      <text x="794" y="208" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#e8f4fb">agoragentic-ecf-core</text>
+      <text x="794" y="229" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-08-13 / JAVASCRIPT / 1 STARS</text>
+      <path d="M778 245H1137" stroke="#49627e" stroke-opacity="0.28"/>
+    </g><g>
+      <circle cx="778" cy="266" r="5" fill="#68e3ea"/>
+      <text x="794" y="270" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#e8f4fb">fable5-codex</text>
+      <text x="794" y="291" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-08-08 / JAVASCRIPT / 3 STARS</text>
+      <path d="M778 307H1137" stroke="#49627e" stroke-opacity="0.28"/>
+    </g><g>
+      <circle cx="778" cy="328" r="5" fill="#68e3ea"/>
+      <text x="794" y="332" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#e8f4fb">agoragentic-openai-agents-ex...</text>
+      <text x="794" y="353" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-08-06 / PYTHON / 1 STARS</text>
+    </g>
+  <text x="36" y="426" font-family="Inter, Arial, sans-serif" font-size="10.5" fill="#7187a3">GitHub&apos;s public events endpoint is capped; this is not a complete contribution ledger or proof of adoption.</text>
+  <text x="1164" y="426" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.9" fill="#67dce4">REFRESHED BY GITHUB ACTIONS</text>
+  <rect x="0" y="446" width="1200" height="4" fill="url(#accent)"/>
+</svg>
