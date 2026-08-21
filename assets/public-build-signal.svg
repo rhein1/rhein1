@@ -25,11 +25,11 @@
   <g transform="translate(36 82)">
       <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#68e3ea" stroke-opacity="0.48"/>
       <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">PUBLIC REPOS</text>
-      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#68e3ea">37</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#68e3ea">39</text>
     </g><g transform="translate(260 82)">
       <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#78e6ec" stroke-opacity="0.48"/>
       <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">ORIGINAL BUILDS</text>
-      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#78e6ec">9</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#78e6ec">10</text>
     </g><g transform="translate(484 82)">
       <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#9adfdc" stroke-opacity="0.48"/>
       <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">STARS ON BUILDS</text>
@@ -37,11 +37,11 @@
     </g><g transform="translate(708 82)">
       <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#e6b091" stroke-opacity="0.48"/>
       <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">FORKS OF BUILDS</text>
-      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#e6b091">6</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#e6b091">5</text>
     </g><g transform="translate(932 82)">
       <rect width="208" height="112" rx="16" fill="#0e1e32" stroke="#ff8062" stroke-opacity="0.48"/>
       <text x="18" y="31" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="800" letter-spacing="1.4" fill="#93a8c0">ACTIVE IN 90D</text>
-      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#ff8062">8</text>
+      <text x="18" y="81" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850" fill="#ff8062">9</text>
     </g>
   <text x="36" y="226" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="750" letter-spacing="1.35" fill="#91a5c1">PRIMARY LANGUAGES / JAVASCRIPT / PYTHON</text>
   <text x="1164" y="226" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="11" fill="#7187a3">Counts are public-source signals, not adoption or revenue claims.</text>
