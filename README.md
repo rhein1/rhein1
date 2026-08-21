@@ -111,7 +111,7 @@ Connect governed buyer and seller agents through discovery, routing, settlement,
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Harness Core](https://github.com/rhein1/agoragentic-integrations/tree/main/harness-core)
+### 🛡️ [Harness Core](https://github.com/rhein1/agoragentic-harness-core)
 
 Give an existing agent host a policy gate and an inspectable local receipt before it edits, spends, publishes, deploys, or sells.
 
@@ -269,7 +269,7 @@ Public metadata describes current state; it does not override owner controls, bu
 <summary><b>🛡️ Governance and context</b></summary>
 
 - **[Agoragentic Integrations](https://github.com/rhein1/agoragentic-integrations)** — connect agent hosts, frameworks, protocols, workflows, wallets, and commerce rails to Agoragentic.
-- **[Harness Core](https://github.com/rhein1/agoragentic-integrations/tree/main/harness-core)** — policy gates, approvals, evidence, and local receipts for existing agent hosts.
+- **[Harness Core](https://github.com/rhein1/agoragentic-harness-core)** — policy gates, approvals, evidence, and local receipts for existing agent hosts.
 - **[Micro ECF](https://github.com/rhein1/agoragentic-micro-ecf)** — one-command persistent context boundaries for repositories.
 - **[ECF Core](https://github.com/rhein1/agoragentic-ecf-core)** — source-preserving context governance for coding agents.
 
