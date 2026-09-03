@@ -20,92 +20,98 @@
   <rect x="1" y="1" width="1198" height="448" rx="23" fill="none" stroke="#45617c" stroke-opacity="0.45"/>
   <text x="36" y="36" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="850" letter-spacing="2.4" fill="#e8f4fb">PUBLIC SHIPPING PULSE</text>
   <text x="36" y="60" font-family="Inter, Arial, sans-serif" font-size="12" fill="#91a5c1">Latest GitHub public events feed / owned original repositories / private activity excluded</text>
-  <text x="1164" y="36" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="10" letter-spacing="1.25" fill="#67dce4">18-DAY OBSERVED FEED</text>
+  <text x="1164" y="36" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="10" letter-spacing="1.25" fill="#67dce4">20-DAY OBSERVED FEED</text>
   <path d="M36 70H1164" stroke="url(#accent)" stroke-opacity="0.5"/>
   <g transform="translate(36 88)">
       <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#68e3ea" stroke-opacity="0.42"/>
       <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">PUSH EVENTS</text>
-      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#68e3ea">30</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#68e3ea">18</text>
     </g><g transform="translate(206 88)">
       <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#78e6ec" stroke-opacity="0.42"/>
       <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">PR EVENTS</text>
-      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#78e6ec">116</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#78e6ec">122</text>
     </g><g transform="translate(376 88)">
       <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#e6b091" stroke-opacity="0.42"/>
       <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">REPOS PUSHED</text>
-      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#e6b091">3</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#e6b091">2</text>
     </g><g transform="translate(546 88)">
       <rect width="158" height="66" rx="13" fill="#0e1e32" stroke="#ff8062" stroke-opacity="0.42"/>
       <text x="14" y="24" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="800" letter-spacing="1.15" fill="#93a8c0">ACTIVE DAYS</text>
-      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#ff8062">17</text>
+      <text x="14" y="52" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850" fill="#ff8062">19</text>
     </g>
   <rect x="36" y="171" width="690" height="230" rx="16" fill="#0b192b" stroke="#45617c" stroke-opacity="0.36"/>
   <text x="57" y="198" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="800" letter-spacing="1.25" fill="#93a8c0">PUBLIC PUSH CADENCE</text>
   <path d="M57 359H701" stroke="#49627e" stroke-opacity="0.38"/>
   <g>
-      <rect x="63.89" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="62.10" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-15: 0 public push events</title>
+    </g><g>
+      <rect x="94.30" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-16: 0 public push events</title>
     </g><g>
-      <rect x="99.67" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="126.50" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-17: 0 public push events</title>
     </g><g>
-      <rect x="135.44" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="158.70" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-18: 0 public push events</title>
     </g><g>
-      <rect x="171.22" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="190.90" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-19: 0 public push events</title>
     </g><g>
-      <rect x="207.00" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="223.10" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-20: 0 public push events</title>
     </g><g>
-      <rect x="242.78" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="255.30" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-21: 0 public push events</title>
     </g><g>
-      <rect x="278.56" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="287.50" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-22: 0 public push events</title>
     </g><g>
-      <rect x="314.33" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="319.70" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-23: 0 public push events</title>
     </g><g>
-      <rect x="350.11" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="351.90" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-24: 0 public push events</title>
     </g><g>
-      <rect x="385.89" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="384.10" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-25: 0 public push events</title>
     </g><g>
-      <rect x="421.67" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="416.30" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-26: 0 public push events</title>
     </g><g>
-      <rect x="457.44" y="217" width="22.00" height="142" rx="4" fill="#ff8062" fill-opacity="0.9"/>
-      <title>2026-08-27: 18 public push events</title>
+      <rect x="448.50" y="249" width="22.00" height="110" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <title>2026-08-27: 7 public push events</title>
     </g><g>
-      <rect x="493.22" y="350" width="22.00" height="9" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
-      <title>2026-08-28: 1 public push event</title>
+      <rect x="480.70" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-08-28: 0 public push events</title>
     </g><g>
-      <rect x="529.00" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="512.90" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-29: 0 public push events</title>
     </g><g>
-      <rect x="564.78" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="545.10" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-08-30: 0 public push events</title>
     </g><g>
-      <rect x="600.56" y="343" width="22.00" height="16" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <rect x="577.30" y="327" width="22.00" height="32" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
       <title>2026-08-31: 2 public push events</title>
     </g><g>
-      <rect x="636.33" y="288" width="22.00" height="71" rx="4" fill="#68e3ea" fill-opacity="0.9"/>
+      <rect x="609.50" y="217" width="22.00" height="142" rx="4" fill="#ff8062" fill-opacity="0.9"/>
       <title>2026-09-01: 9 public push events</title>
     </g><g>
-      <rect x="672.11" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <rect x="641.70" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
       <title>2026-09-02: 0 public push events</title>
+    </g><g>
+      <rect x="673.90" y="356" width="22.00" height="3" rx="4" fill="#29415c" fill-opacity="0.55"/>
+      <title>2026-09-03: 0 public push events</title>
     </g>
-  <text x="57" y="383" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-08-16</text>
+  <text x="57" y="383" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-08-15</text>
   <text x="379" y="383" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-08-24</text>
-  <text x="701" y="383" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-09-02</text>
+  <text x="701" y="383" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="9" fill="#7187a3">2026-09-03</text>
   <rect x="746" y="88" width="418" height="313" rx="16" fill="#0b192b" stroke="#45617c" stroke-opacity="0.36"/>
   <text x="778" y="118" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="800" letter-spacing="1.25" fill="#93a8c0">RECENT ORIGINAL BUILDS</text>
   <g>
       <circle cx="778" cy="142" r="5" fill="#ff8062"/>
       <text x="794" y="146" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#e8f4fb">agoragentic-integrations</text>
-      <text x="794" y="167" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-09-01 / JAVASCRIPT / 30 STARS</text>
+      <text x="794" y="167" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-09-03 / JAVASCRIPT / 30 STARS</text>
       <path d="M778 183H1137" stroke="#49627e" stroke-opacity="0.28"/>
     </g><g>
       <circle cx="778" cy="204" r="5" fill="#68e3ea"/>
@@ -115,7 +121,7 @@
     </g><g>
       <circle cx="778" cy="266" r="5" fill="#68e3ea"/>
       <text x="794" y="270" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#e8f4fb">fable5-codex</text>
-      <text x="794" y="291" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-08-21 / JAVASCRIPT / 3 STARS</text>
+      <text x="794" y="291" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" letter-spacing="0.7" fill="#8298b4">PUSHED 2026-08-21 / JAVASCRIPT / 4 STARS</text>
       <path d="M778 307H1137" stroke="#49627e" stroke-opacity="0.28"/>
     </g><g>
       <circle cx="778" cy="328" r="5" fill="#68e3ea"/>
